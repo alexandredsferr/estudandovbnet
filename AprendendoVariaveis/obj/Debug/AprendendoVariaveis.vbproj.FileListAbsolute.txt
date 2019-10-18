@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\AprendendoVariaveis\AprendendoVariaveis\bin\Debug\AprendendoVariaveis.exe.config
+C:\Users\alexa\source\repos\AprendendoVariaveis\AprendendoVariaveis\bin\Debug\AprendendoVariaveis.exe
+C:\Users\alexa\source\repos\AprendendoVariaveis\AprendendoVariaveis\bin\Debug\AprendendoVariaveis.pdb
+C:\Users\alexa\source\repos\AprendendoVariaveis\AprendendoVariaveis\bin\Debug\AprendendoVariaveis.xml
+C:\Users\alexa\source\repos\AprendendoVariaveis\AprendendoVariaveis\obj\Debug\AprendendoVariaveis.vbprojAssemblyReference.cache
+C:\Users\alexa\source\repos\AprendendoVariaveis\AprendendoVariaveis\obj\Debug\AprendendoVariaveis.Frm_TelaPrincipal.resources
+C:\Users\alexa\source\repos\AprendendoVariaveis\AprendendoVariaveis\obj\Debug\AprendendoVariaveis.Resources.resources
+C:\Users\alexa\source\repos\AprendendoVariaveis\AprendendoVariaveis\obj\Debug\AprendendoVariaveis.vbproj.GenerateResource.cache
+C:\Users\alexa\source\repos\AprendendoVariaveis\AprendendoVariaveis\obj\Debug\AprendendoVariaveis.exe
+C:\Users\alexa\source\repos\AprendendoVariaveis\AprendendoVariaveis\obj\Debug\AprendendoVariaveis.xml
+C:\Users\alexa\source\repos\AprendendoVariaveis\AprendendoVariaveis\obj\Debug\AprendendoVariaveis.pdb

@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\AprendendoVariaveis\BrincandoComString\bin\Debug\BrincandoComString.exe.config
+C:\Users\alexa\source\repos\AprendendoVariaveis\BrincandoComString\bin\Debug\BrincandoComString.exe
+C:\Users\alexa\source\repos\AprendendoVariaveis\BrincandoComString\bin\Debug\BrincandoComString.pdb
+C:\Users\alexa\source\repos\AprendendoVariaveis\BrincandoComString\bin\Debug\BrincandoComString.xml
+C:\Users\alexa\source\repos\AprendendoVariaveis\BrincandoComString\obj\Debug\BrincandoComString.vbprojAssemblyReference.cache
+C:\Users\alexa\source\repos\AprendendoVariaveis\BrincandoComString\obj\Debug\BrincandoComString.Frm_BrincandoComString.resources
+C:\Users\alexa\source\repos\AprendendoVariaveis\BrincandoComString\obj\Debug\BrincandoComString.Resources.resources
+C:\Users\alexa\source\repos\AprendendoVariaveis\BrincandoComString\obj\Debug\BrincandoComString.vbproj.GenerateResource.cache
+C:\Users\alexa\source\repos\AprendendoVariaveis\BrincandoComString\obj\Debug\BrincandoComString.exe
+C:\Users\alexa\source\repos\AprendendoVariaveis\BrincandoComString\obj\Debug\BrincandoComString.xml
+C:\Users\alexa\source\repos\AprendendoVariaveis\BrincandoComString\obj\Debug\BrincandoComString.pdb

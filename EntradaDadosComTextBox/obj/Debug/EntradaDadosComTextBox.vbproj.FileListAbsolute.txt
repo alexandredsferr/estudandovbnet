@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\AprendendoVariaveis\EntradaDadosComTextBox\bin\Debug\EntradaDadosComTextBox.exe.config
+C:\Users\alexa\source\repos\AprendendoVariaveis\EntradaDadosComTextBox\bin\Debug\EntradaDadosComTextBox.exe
+C:\Users\alexa\source\repos\AprendendoVariaveis\EntradaDadosComTextBox\bin\Debug\EntradaDadosComTextBox.pdb
+C:\Users\alexa\source\repos\AprendendoVariaveis\EntradaDadosComTextBox\bin\Debug\EntradaDadosComTextBox.xml
+C:\Users\alexa\source\repos\AprendendoVariaveis\EntradaDadosComTextBox\obj\Debug\EntradaDadosComTextBox.Frm_EntradaDeDados.resources
+C:\Users\alexa\source\repos\AprendendoVariaveis\EntradaDadosComTextBox\obj\Debug\EntradaDadosComTextBox.Resources.resources
+C:\Users\alexa\source\repos\AprendendoVariaveis\EntradaDadosComTextBox\obj\Debug\EntradaDadosComTextBox.vbproj.GenerateResource.cache
+C:\Users\alexa\source\repos\AprendendoVariaveis\EntradaDadosComTextBox\obj\Debug\EntradaDadosComTextBox.exe
+C:\Users\alexa\source\repos\AprendendoVariaveis\EntradaDadosComTextBox\obj\Debug\EntradaDadosComTextBox.xml
+C:\Users\alexa\source\repos\AprendendoVariaveis\EntradaDadosComTextBox\obj\Debug\EntradaDadosComTextBox.pdb
